@@ -1,0 +1,17 @@
+# Site settings
+title: timomulder.nl
+email: info@timomulder.nl
+# host: www.timomulder.nl
+description: Timo Mulder bassplayer and musician. Bass guitar (jazz and pop).
+baseurl: / # the subpath of your site, e.g. /blog/
+url: timomulder.nl # the base hostname & protocol for your site
+
+twitter_username:
+github_username:
+mobile_number: +31(0)6-34171001
+discord_username: 
+youtube_username: channel/UCLmVfSWXz8IwwpoyCuYaQDw
+linkedin_username:
+
+# Build settings
+markdown: kramdown
