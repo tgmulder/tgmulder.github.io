@@ -1,6 +1,7 @@
 # Site settings
 title: timomulder.nl
 email: info@timomulder.nl
+tel: +31649966935
 # host: www.timomulder.nl
 description: Timo Mulder bassplayer and musician. Bass guitar (jazz and pop).
 baseurl: / # the subpath of your site, e.g. /blog/
